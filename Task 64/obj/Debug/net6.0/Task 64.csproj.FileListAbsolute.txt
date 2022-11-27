@@ -1,0 +1,15 @@
+D:\HW Seminar 9\Task 64\bin\Debug\net6.0\Task 64.exe
+D:\HW Seminar 9\Task 64\bin\Debug\net6.0\Task 64.deps.json
+D:\HW Seminar 9\Task 64\bin\Debug\net6.0\Task 64.runtimeconfig.json
+D:\HW Seminar 9\Task 64\bin\Debug\net6.0\Task 64.dll
+D:\HW Seminar 9\Task 64\bin\Debug\net6.0\Task 64.pdb
+D:\HW Seminar 9\Task 64\obj\Debug\net6.0\Task 64.csproj.AssemblyReference.cache
+D:\HW Seminar 9\Task 64\obj\Debug\net6.0\Task 64.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW Seminar 9\Task 64\obj\Debug\net6.0\Task 64.AssemblyInfoInputs.cache
+D:\HW Seminar 9\Task 64\obj\Debug\net6.0\Task 64.AssemblyInfo.cs
+D:\HW Seminar 9\Task 64\obj\Debug\net6.0\Task 64.csproj.CoreCompileInputs.cache
+D:\HW Seminar 9\Task 64\obj\Debug\net6.0\Task 64.dll
+D:\HW Seminar 9\Task 64\obj\Debug\net6.0\refint\Task 64.dll
+D:\HW Seminar 9\Task 64\obj\Debug\net6.0\Task 64.pdb
+D:\HW Seminar 9\Task 64\obj\Debug\net6.0\Task 64.genruntimeconfig.cache
+D:\HW Seminar 9\Task 64\obj\Debug\net6.0\ref\Task 64.dll
