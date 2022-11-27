@@ -4,15 +4,9 @@ m = 2, n = 3 -> A(m,n) = 9
 m = 3, n = 2 -> A(m,n) = 29 */
 
 Console.WriteLine("Введите два положительных числа: M и N.");
-int m = InputInt("Введите M: ");
-int n = InputInt("Введите N: ");
+int m = Convert.ToInt32(Console.ReadLine());
+int n = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine($"A({m}, {n}) = {Akkerman(m, n)}");
-
-int InputInt(string output)
-{
-    Console.Write(output);
-    return int.Parse(Console.ReadLine());
-}
 
 int Akkerman(int m, int n)
 {
